@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calc</string>
+    <string name="phone">phone</string>
+    <string name="hint_phone2">enter 1 operand</string>
+    <string name="hint_phone1">enter 2 operand</string>
+    <string name="second_operand">second operand</string>
+    <string name="first_operand">first operand</string>
+    <string name="add">add</string>
+</resources>
