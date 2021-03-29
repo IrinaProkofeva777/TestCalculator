@@ -8,10 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-
-/**
- * Программа реализует сложение двух элементов
- */
 public class MainActivity extends AppCompatActivity {
 
     EditText enterText1;
