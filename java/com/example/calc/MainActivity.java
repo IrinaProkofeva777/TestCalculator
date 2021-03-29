@@ -44,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
             if (Integer.valueOf(secondText) < 0) {
                 secondText = "(" + secondText + ")";
             }
-            //сохраняем данные по ключам
+            
+
             intent.putExtra("firstText", firstText);
             intent.putExtra("secondText", secondText);
             intent.putExtra("result", result);
